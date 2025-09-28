@@ -1,6 +1,6 @@
 
 import './App.css'
-import PreviewStories from '../components/PreviewStories'
+import PreviewStories from './components/previewStories'
 
 function App() {
   
