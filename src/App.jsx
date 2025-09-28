@@ -1,13 +1,14 @@
 
 import './App.css'
-import PreviewStories from './components/previewStories'
+import PreviewStories from './components/PreviewStories'
+
 
 function App() {
   
 
   return (
     <>
-      <PreviewStories />
+      < PreviewStories />
     </>
   )
 }
