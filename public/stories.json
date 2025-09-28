@@ -1,0 +1,9 @@
+[
+    { "id" : 1, "image" : "/stories_photos/photo1.jpg", "username" : "user1" },
+    { "id" : 2, "image" : "/stories_photos/photo2.jpg", "username" : "user2" },
+    { "id" : 3, "image" : "/stories_photos/photo3.jpg", "username" : "user3" },
+    { "id" : 4, "image" : "/stories_photos/photo4.jpg", "username" : "user4" },
+    { "id" : 5, "image" : "/stories_photos/photo5.jpg", "username" : "user5" },
+    { "id" : 6, "image" : "/stories_photos/photo6.jpg", "username" : "user6" },
+    { "id" : 7, "image" : "/stories_photos/photo7.jpg", "username" : "user7" }
+]
